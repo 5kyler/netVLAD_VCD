@@ -1,0 +1,10 @@
+pandas==1.1.5
+torchsummary==1.5.1
+pymediainfo==5.0.3
+faiss-gpu==1.6.5
+tensorboardX==2.1.0
+tensorboard==2.4.0
+tqdm==4.46.0
+torch-optimizer
+sklearn
+albumentations
